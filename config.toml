@@ -5,7 +5,7 @@ theme = "hugo-theme-codex"
 googleAnalytics = "G-2RXTKBY54H"
 
 [params]
-  description = "You are in my world, my home page, my log book, and this is a way for me to log what I like about life. On this site, you will find technical writing, life writing, and projects I've done throughout my life."
+  description = " You are in my world, my home page, my log book, this is a way for me to log the different tech projects and professional descision that a human person could take during his life. On this site, you will find technical writing, life writing, and projects I've done throughout my life."
   twitter = "https://twitter.com/RossetPaul"
   keywords = "paul rosset, logbook, homepage, blog, life, programming, coding"
 

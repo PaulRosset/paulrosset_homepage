@@ -1,0 +1,16 @@
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+
+    - name: "About"
+      url: "/about"
+
+    - name: "Team"
+      url: "/team"
+
+    - name: "Webinars"
+      url: "/webinars"
+
+    - name: "Join MiR"
+      url: "/contact"

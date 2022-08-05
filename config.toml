@@ -1,0 +1,51 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "hugo-theme-codex"
+
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  title = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+    identifier = "life-writing"
+    name = "Life Writing"
+    title = "Life Writing"
+    url = "/life-writing"
+    weight = 2
+
+[[menu.main]]
+    identifier = "technical-writing"
+    name = "Technical Writing"
+    title = "Technical Writing"
+    url = "/technical-writing"
+    weight = 3
+
+[[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    title = "Projects"
+    url = "/projects"
+    weight = 4
+
+[[menu.main]]
+    identifier = "epikent"
+    name = "Epikent (French)"
+    title = "Epikent (French)"
+    url = "https://epikent.paulrossethings.com/"
+    weight = 5
+
+[[menu.main]]
+    identifier = "qonto-refer"
+    name = "We are hiring!"
+    title = "We are hiring!"
+    url = "https://refer.hellotrusty.io/kudytqi2pb/"
+    weight = 6
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

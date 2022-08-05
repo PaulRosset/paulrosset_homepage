@@ -1,0 +1,20 @@
+{{ define "styles" }} {{ $.Scratch.Set "style_opts" (dict "src"
+"scss/pages/about.scss" "dest" "css/about.css") }} {{ end }} {{ define "main" }}
+
+<div class="splash-container">
+  <div class="splash">
+    <h1>Hello World<span class="fancy">.</span></h1>
+
+    <h2>Welcome<span class="fancy">.</span></h2>
+    <h3>I'm Paul Rosset<span class="fancy">.</span></h3>
+    <p>
+      You are in my world, my home page, my log book, and this is a way for me
+      to log what I like about life.<br />
+      On this site, you will find <b>technical writing</b>, <b>life writing</b>,
+      and <b>projects</b> I've done throughout my life.
+    </p>
+    <h4>Let's go<span class="fancy">.</span></h4>
+  </div>
+</div>
+
+{{ end }}

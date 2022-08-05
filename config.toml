@@ -2,8 +2,6 @@ baseURL = 'https://me.paulrossethings.com/'
 languageCode = 'en-us'
 title = 'Paul Rosset'
 theme = "hugo-theme-codex"
-keywords = "word1, expression2, phrase3"
-
 
 [params]
   description = "You are in my world, my home page, my log book, and this is a way for me to log what I like about life. On this site, you will find technical writing, life writing, and projects I've done throughout my life."

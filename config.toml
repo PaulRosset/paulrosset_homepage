@@ -17,24 +17,24 @@ googleAnalytics = "G-2RXTKBY54H"
   weight = 1
 
 [[menu.main]]
-    identifier = "life-writing"
-    name = "Life Writing"
-    title = "Life Writing"
-    url = "/life-writing"
-    weight = 2
-
-[[menu.main]]
     identifier = "technical-writing"
     name = "Technical Writing"
     title = "Technical Writing"
     url = "/technical-writing"
-    weight = 3
+    weight = 2
 
 [[menu.main]]
     identifier = "projects"
     name = "Projects"
     title = "Projects"
     url = "/projects"
+    weight = 3
+
+[[menu.main]]
+    identifier = "life-writing"
+    name = "Life Writing"
+    title = "Life Writing"
+    url = "/life-writing"
     weight = 4
 
 [[menu.main]]

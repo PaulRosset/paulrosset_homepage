@@ -1,5 +1,5 @@
 ---
-title: "Integrating “Sign in with Apple” feature into your website"
+title: "Boost User Security and Convenience with “Sign in with Apple“ Integration on Your Website"
 date: 2022-11-18T15:00:00+02:00
 draft: false
 slug: "technical-writing/sign-in-with-apple"

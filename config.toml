@@ -44,13 +44,6 @@ googleAnalytics = "G-2RXTKBY54H"
     url = "https://epikent.paulrossethings.com/"
     weight = 5
 
-[[menu.main]]
-    identifier = "qonto-refer"
-    name = "We are hiring!"
-    title = "We are hiring!"
-    url = "https://refer.hellotrusty.io/kudytqi2pb/"
-    weight = 6
-
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
